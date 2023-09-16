@@ -1,4 +1,4 @@
-public class AreaCinfunferencia {
+public class AreaCircuferencia {
 
 	public static void main(String[] args) {
 		double raio = 3.4;

@@ -1,8 +1,5 @@
-package fundamentos;
-
 public class NotacaoPonto {
-
-	public static void main(String[] args) {
+public static void main(String[] args) {
 		
 		String s = "Bom dia X!";
 		s = s.toUpperCase();
@@ -24,5 +21,4 @@ public class NotacaoPonto {
 		//tipos primitivos não tem o operador "."
 		
 	}
-
 }
