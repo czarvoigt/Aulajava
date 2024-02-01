@@ -4,7 +4,7 @@ public static void main(String[] args) {
 		String s = "Bom dia X!";
 		s = s.toUpperCase();
 		
-		s = s.replace("X", "Senhora");
+		s = s.replace("Xg", "Senhora");
 		
 		System.out.println(s);
 		
