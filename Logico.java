@@ -3,7 +3,8 @@ public class Logico {
 
 	public static void main(String[] args) {
 		
-		/* E: 				&&
+		/* Operadores Logicos
+		 * E: 				&&
 		 * OU:				||
 		 * OU Exclusivo: 	^
 		 * Não: 			!
